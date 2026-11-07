@@ -1,0 +1,1 @@
+# Despacho-econ-mico-de-carga-computacional-en-entornos-Cloud-mediante-c-lculo-diferencial
